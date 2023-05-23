@@ -1,1 +1,1 @@
-* **Última atualização da página:** 23/05/2023
+* **LAST UPDATE:** 23/05/2023
