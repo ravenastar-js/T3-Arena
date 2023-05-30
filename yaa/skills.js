@@ -1,4 +1,4 @@
-{
+let skills = {
 br:[
   {
     number: 1,
