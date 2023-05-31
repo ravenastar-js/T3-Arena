@@ -1,122 +1,124 @@
 {
-    "br":[
-      {
-        "number": 1,
-        "name": "PISTOLA DE VENTO",
-        "desc": "Contém uma arma automática com motor de ar comprimido que pode converter energia eólica em bombas de energia cinética. Durante o movimento de alta velocidade. YAA pode fortalecer esse poder.",
-        "icon": "heroes/yaa/Yaa_wp_icon_std.png",
-        "type": "ARMA",
-        "DAMAGE": "336",
-        "AMMO_CAPACITY": "9"
-      },
-      {
-        "number": 2,
-        "name": "MORTE DO VENTO",
-        "desc": "YAA avança, cortando o ar e atinge o alvo no caminho com uma rajada de vento causando DAMAGE. Depois de fazer KOs ao inimigo, essa habilidade será atualizada.",
-        "icon": "heroes/yaa/Yaa_1.png",
-        "type": "FIRST ACTIVE ABILITY",
-        "DAMAGE": "1820"
-      },
-    
-      {
-        "number": 3,
-        "name": "CONTRA TEMPESTADE",
-        "desc": "Crie um escudo para bloquear e combater com as lâminas de vento ao seu lado.",
-        "DAMAGE": "2x700",
-        "DURATION": "2.5s",
-        "icon": "heroes/yaa/Yaa_2.png",
-        "type": "SECOND ACTIVE ABILITY"
-      },
-      {
-        "number": 4,
-        "name": "LÂMINA DE VENTO",
-        "desc": "YAA domina completamente o poder do vento, aumenta sua velocidade de movimento e usa duas lâminas de vento para atacar. As lâminas de vento podem penetrar nos inimigos, causando DAMAGE.",
-        "DAMAGE": "1820",
-        "DAMAGE_MITIGATION": "35%",
-        "SPEED_BOOST": "35%",
-        "DURATION": "9s",
-        "icon": "heroes/yaa/Yaa_EX.png",
-        "type": "HABILIDADE EX"
-      },
-    
-      {
-        "number": 5,
-        "name": "FORÇA DO FURACÃO",
-        "desc": "YAA se tranforma em um furacão, aumentando a velocidade de movimento, e não poderá ser atingido. Após um período de tempo, um olho de vento é gerado em sua própria posição, causando DAMAGEs contínuos ao inimigo.",
-        "DAMAGE": "1820",
-        "INITIAL_BLAST_DAMAGE": "980",
-        "DURATION": "6s",
-        "icon": "heroes/yaa/Yaa_EX2.png",
-        "type": "HABILIDADE EX"
-      },
-    
-      {
-        "number": 6,
-        "name": "GUARDIÃO DO VENTO",
-        "desc": "Depois que YAA passa pelos inimigos com Morte do vento, obterá um escudo temporário que dura 3seg.",
-        "SHIELD_TEMP": "840",
-        "icon": "heroes/yaa/Yaa_PS.png",
-        "type": "HABILIDADE PASSIVA"
-      }
+    "br": [
+        {
+            "number": 0,
+            "yaa_desc": "YAA vive em alta velocidade. Sempre em aceleração crescente e quebrando recordes, ela atingiu um novo patamar com suas asas de vento."
+        },
+        {
+            "number": 1,
+            "name": "PISTOLA DE VENTO",
+            "desc": "Contém uma arma automática com motor de ar comprimido que pode converter energia eólica em bombas de energia cinética. Durante o movimento de alta velocidade. YAA pode fortalecer esse poder.",
+            "icon": "heroes/yaa/Yaa_wp_icon_std.png",
+            "type": "ARMA",
+            "DAMAGE": "336",
+            "AMMO_CAPACITY": "9"
+        },
+        {
+            "number": 2,
+            "name": "MORTE DO VENTO",
+            "desc": "YAA avança, cortando o ar e atinge o alvo no caminho com uma rajada de vento causando DAMAGE. Depois de fazer KOs ao inimigo, essa habilidade será atualizada.",
+            "icon": "heroes/yaa/Yaa_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DAMAGE": "1820"
+        },
+        {
+            "number": 3,
+            "name": "CONTRA TEMPESTADE",
+            "desc": "Crie um escudo para bloquear e combater com as lâminas de vento ao seu lado.",
+            "DAMAGE": "2x700",
+            "DURATION": "2.5s",
+            "icon": "heroes/yaa/Yaa_2.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
+            "number": 4,
+            "name": "LÂMINA DE VENTO",
+            "desc": "YAA domina completamente o poder do vento, aumenta sua velocidade de movimento e usa duas lâminas de vento para atacar. As lâminas de vento podem penetrar nos inimigos, causando DAMAGE.",
+            "DAMAGE": "1820",
+            "DAMAGE_MITIGATION": "35%",
+            "SPEED_BOOST": "35%",
+            "DURATION": "9s",
+            "icon": "heroes/yaa/Yaa_EX.png",
+            "type": "HABILIDADE EX"
+        },
+        {
+            "number": 5,
+            "name": "FORÇA DO FURACÃO",
+            "desc": "YAA se tranforma em um furacão, aumentando a velocidade de movimento, e não poderá ser atingido. Após um período de tempo, um olho de vento é gerado em sua própria posição, causando DAMAGEs contínuos ao inimigo.",
+            "DAMAGE": "1820",
+            "INITIAL_BLAST_DAMAGE": "980",
+            "DURATION": "6s",
+            "icon": "heroes/yaa/Yaa_EX2.png",
+            "type": "HABILIDADE EX"
+        },
+        {
+            "number": 6,
+            "name": "GUARDIÃO DO VENTO",
+            "desc": "Depois que YAA passa pelos inimigos com Morte do vento, obterá um escudo temporário que dura 3seg.",
+            "SHIELD_TEMP": "840",
+            "icon": "heroes/yaa/Yaa_PS.png",
+            "type": "HABILIDADE PASSIVA"
+        }
     ],
-    "en":[
-      {
-        "number": 1,
-        "name": "GALE PISTOL",
-        "desc": "Automatic wind-energy pistol, Its energy can be recharge by high-speed movements.",
-        "icon": "heroes/yaa/Yaa_wp_icon_std.png",
-        "type": "WEAPON",
-        "DAMAGE": "336",
-        "AMMO_CAPACITY": "9"
-      },
-      {
-        "number": 2,
-        "name": "WINDSWIFT",
-        "desc": "Dash forward and strike the opponents in the path with wind blasts. Instantly resets whenever YAA gets a KO.",
-        "icon": "heroes/yaa/Yaa_1.png",
-        "type": "FIRST ACTIVE ABILITY",
-        "DAMAGE": "1820"
-      },
-    
-      {
-        "number": 3,
-        "name": "COUNTERATTACK STORM",
-        "desc": "Generate a shield and launch counterattack using the blade.",
-        "DAMAGE": "2x700",
-        "DURATION": "2.5s",
-        "icon": "heroes/yaa/Yaa_2.png",
-        "type": "SECOND ACTIVE ABILITY"
-      },
-      {
-        "number": 4,
-        "name": "BREEZEBLAST",
-        "desc": "Take full control of the wind around to boost movement speed, and extend 2 penetrating wind blades to strike at the opponents.",
-        "DAMAGE": "1820",
-        "DAMAGE_MITIGATION": "35%",
-        "SPEED_BOOST": "35%",
-        "DURATION": "9s",
-        "icon": "heroes/yaa/Yaa_EX.png",
-        "type": "ULTIMATE ABILITY"
-      },
-    
-      {
-        "number": 5,
-        "name": "TEMPESTWLKER",
-        "desc": "Turn into an invincible whirlwind and rush across the arena with increased speed. During this time, leaves several cyclones in the path to hurt nearby opponents.",
-        "DAMAGE": "1820",
-        "INITIAL_BLAST_DAMAGE": "980",
-        "DURATION": "6s",
-        "icon": "heroes/yaa/Yaa_EX2.png",
-        "type": "ULTIMATE ABILITY"
-      },
-    
-      {
-        "number": 6,
-        "name": "STORMWARD",
-        "desc": "Gain Temp. Shield for 3s after dashing through an opponent with WINDSWIFT.",
-        "SHIELD_TEMP": "840",
-        "icon": "heroes/yaa/Yaa_PS.png",
-        "type": "PASSIVE ABILITY"
-      }
+    "en": [
+        {
+            "number": 0,
+            "yaa_desc": "A genius in track and field sports, YAA lives for the record-breaking speed and agility. With her newly acquired ability to control winds, she is here to take the game to a whole new level."
+        },
+        {
+            "number": 1,
+            "name": "GALE PISTOL",
+            "desc": "Automatic wind-energy pistol, Its energy can be recharge by high-speed movements.",
+            "icon": "heroes/yaa/Yaa_wp_icon_std.png",
+            "type": "WEAPON",
+            "DAMAGE": "336",
+            "AMMO_CAPACITY": "9"
+        },
+        {
+            "number": 2,
+            "name": "WINDSWIFT",
+            "desc": "Dash forward and strike the opponents in the path with wind blasts. Instantly resets whenever YAA gets a KO.",
+            "icon": "heroes/yaa/Yaa_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DAMAGE": "1820"
+        },
+        {
+            "number": 3,
+            "name": "COUNTERATTACK STORM",
+            "desc": "Generate a shield and launch counterattack using the blade.",
+            "DAMAGE": "2x700",
+            "DURATION": "2.5s",
+            "icon": "heroes/yaa/Yaa_2.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
+            "number": 4,
+            "name": "BREEZEBLAST",
+            "desc": "Take full control of the wind around to boost movement speed, and extend 2 penetrating wind blades to strike at the opponents.",
+            "DAMAGE": "1820",
+            "DAMAGE_MITIGATION": "35%",
+            "SPEED_BOOST": "35%",
+            "DURATION": "9s",
+            "icon": "heroes/yaa/Yaa_EX.png",
+            "type": "ULTIMATE ABILITY"
+        },
+        {
+            "number": 5,
+            "name": "TEMPESTWLKER",
+            "desc": "Turn into an invincible whirlwind and rush across the arena with increased speed. During this time, leaves several cyclones in the path to hurt nearby opponents.",
+            "DAMAGE": "1820",
+            "INITIAL_BLAST_DAMAGE": "980",
+            "DURATION": "6s",
+            "icon": "heroes/yaa/Yaa_EX2.png",
+            "type": "ULTIMATE ABILITY"
+        },
+        {
+            "number": 6,
+            "name": "STORMWARD",
+            "desc": "Gain Temp. Shield for 3s after dashing through an opponent with WINDSWIFT.",
+            "SHIELD_TEMP": "840",
+            "icon": "heroes/yaa/Yaa_PS.png",
+            "type": "PASSIVE ABILITY"
+        }
     ]
-    }
+}
