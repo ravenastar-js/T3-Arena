@@ -1,0 +1,77 @@
+{
+    "br": [
+        {
+            "number": 0,
+            "bio": "Um dos mais procurados do setor, FADE, seu Canhão Quântico pode causar danos massivos aos inimigos de curta distância. Tenha mais cuidado para não ser engolido pela bomba quântica que ele lançar!",
+            "pv": 9450,
+            "shield": 2700
+        },
+        {
+            "number": 2,
+            "name": "PILHAGEM RUSH",
+            "desc": "Uma corrida imprudente que pode pressionar os inimigos a baterem na parede",
+            "icon": "heroes/fade/Fade_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DASH_DAMAGE": "1350",
+            "DASH_AGAINST_WALL_DAMAGE": "2970",
+            "DASH_KNOCKAWAY_DAMAGE": "1350",
+            "DAMAGE_MITIGATION": "21%"
+        },
+        {
+            "number": 4,
+            "name": "ATOM FADE",
+            "desc": "Larga bombas para criar uma singularidade que devora todos os inimigos dentro do alcance e volta a dispará-los através do Canhão Cósmico",
+            "icon": "heroes/fade/Fade_EX.png",
+            "type": "HABILIDADE EX",
+            "DEVOUR_TIME":"2s",
+            "DAMAGE":"1000",
+            "HEALING_OVER_TIME":"1600/s"
+        },
+        {
+            "number": 6,
+            "name": "CONVERSÃO C",
+            "desc": "O dano recebido próprio reduz o resfriamento do Soco Predatório",
+            "SHIELD_TEMP": "840",
+            "icon": "heroes/fade/Fade_PS.png",
+            "type": "HABILIDADE PASSIVA"
+        }
+    ],
+    "en": [
+        {
+            "number": 0,
+            "bio": "FADE is familiar face on the Sector's MOST WANTED posters. His Quantum Cannon can deal massive damage to opponents close-range. Remember to stay away from his quantum bombs!",
+            "pv": 9450,
+            "shield": 2700
+        },
+        {
+            "number": 2,
+            "name": "PLUNDER RUSH",
+            "desc": "Dashes forward madly and presses opponents hit against the wall",
+            "icon": "heroes/fade/Fade_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DASH_DAMAGE": "1350",
+            "DASH_AGAINST_WALL_DAMAGE": "2970",
+            "DASH_KNOCKAWAY_DAMAGE": "1350",
+            "DAMAGE_MITIGATION": "21%"
+        },
+        {
+            "number": 4,
+            "name": "ATOM FADE",
+            "desc": "Fires a bomb to create a singularity that devours all opponents within the range, and shoots them out from the space-class shipboard artillery",
+            "icon": "heroes/fade/Fade_EX.png",
+            "type": "ULTIMATE ABILITY",
+            "DEVOUR_TIME":"2s",
+            "DAMAGE":"1000",
+            "HEALING_OVER_TIME":"1600/s"
+        },
+        {
+            "number": 6,
+            "name": "C-CONVERSION",
+            "desc": "Damage taken reduces CD of PLUNDER and DASH",
+            "SHIELD_TEMP": "840",
+            "icon": "heroes/fade/Fade_PS.png",
+            "type": "PASSIVE ABILITY",
+            "DAMAGE": "1000"
+        }
+    ]
+}
