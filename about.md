@@ -22,7 +22,13 @@ Desenvolvido por **[RavenaStar](https://github.com/ravenastar-js)**, por hobby e
 <br><br>
 ## GUIDE UNDER DEVELOPMENT (BETA)
 Developed by **[RavenaStar](https://github.com/ravenastar-js)**, as a hobby and with the aim of helping the new `T3 Arena` community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN [SUPPORT SERVER](https://discord.gg/wBZvfE9Wjk)
-  <br>  <br>
+<br><br>
 <p align="center">
 <a href="https://github.com/ravenastar-js/T3-Arena" id="img-1"><img src="https://img.shields.io/badge/-GITHUB-d61d4e?style=flat-square&labelColor=fb2c65&logo=github&logoColor=ffffff&link=https://github.com/ravenastar-js/T3-Arena"/></a>ﾠ<a href="https://discord.gg/wBZvfE9Wjk" id="img-2"><img src="https://img.shields.io/badge/-DISCORD-d61d4e?style=flat-square&labelColor=fb2c65&logo=discord&logoColor=ffffff&link=https://t3arena.xd.com"/></a>
 </p>
+
+```
+O WEBSITE NÃO SALVA NENHUMA INFORMAÇÃO DO USUÁRIO OU DADOS DE NAVEGAÇÃO.
+
+WEBSITE DOES NOT SAVE ANY USER INFORMATION OR NAVIGATION DATA.
+```
