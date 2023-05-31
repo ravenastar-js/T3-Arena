@@ -1,0 +1,76 @@
+{
+    "br": [
+        {
+            "number": 0,
+            "bio": "No momento em que ela foi equipada com o exoesqueleto, foi como se Gatlyn tivesse completado uma verdadeira transformação.",
+            "pv": 3500,
+            "shield": 2100
+        },
+        {
+            "number": 2,
+            "name": "SOBRECARGA DE FORMA REFORÇADA",
+            "desc": "Em detrimento de sua velocidade, taxa de fogo e capacidade de munição, ele aumenta drasticamente os danos causados pelos tiros, a estabilidade dos tiros e a capacidade de DAMAGEs tomado. Uma breve aceleração é obtida ao final da sobrecarga.",
+            "icon": "heroes/gatlyn/Gatlin_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DAMAGE": "630",
+            "AMMO_CAPACITY": "100",
+            "DAMAGE_MITIGATION": "10%"
+        },
+        {
+            "number": 4,
+            "name": "CAMPO DE FORÇA DE ENERGIA",
+            "desc": "Implante e coloque, o campo de energia, derruba instantaneamente os inimigos ao seu redor e bloqueia o dano de inimigos distantes.",
+            "DAMAGE": "1820",
+            "BARRIER_HEALTH": "21000",
+            "DURATION": "10s",
+            "icon": "heroes/gatlyn/Gatlin_EX.png",
+            "type": "HABILIDADE EX"
+        },
+        {
+            "number": 6,
+            "name": "BALAS DE CRIPAGEM",
+            "desc": "Atinjindo um inimigo aplica um efeito de abrandamento de 20% ao inimigo.",
+            "SLOWING_EFFECT": "20%",
+            "SLOW_DURATION": "1S",
+            "icon": "heroes/gatlyn/Gatlin_PS.png",
+            "type": "HABILIDADE PASSIVA"
+        }
+    ],
+    "en": [
+        {
+            "number": 0,
+            "bio": "Fully kitted in her prototype Exoframe. A transformed Gatlyn is about to bring a heavy storm of steel to the stage of T3.",
+            "pv": 3500,
+            "shield": 2100
+        },
+        {
+            "number": 2,
+            "name": "ÜBERCHARGE",
+            "desc": "Overcharge the system to again boosted defense, weapon damage and stability at the cost of reduced moving speed, rate of fire and ammo capacity. Receive temp speed boost after overcharge ends.",
+            "icon": "heroes/gatlyn/Gatlin_1.png",
+            "type": "FIRST ACTIVE ABILITY",
+            "DAMAGE": "630",
+            "AMMO_CAPACITY": "100",
+            "DAMAGE_MITIGATION": "10%"
+        },
+        {
+            "number": 4,
+            "name": "FORCE FIELD",
+            "desc": "Deploy an advanced force field to block incoming fire, and knock back nearby enemies.",
+            "DAMAGE": "1820",
+            "BARRIER_HEALTH": "21000",
+            "DURATION": "10s",
+            "icon": "heroes/gatlyn/Gatlin_EX.png",
+            "type": "ULTIMATE ABILITY"
+        },
+        {
+            "number": 6,
+            "name": "CRIPPLING ROUNDS",
+            "desc": "Your bullets will slow down enemies by 20%.",
+            "SLOWING_EFFECT": "20%",
+            "SLOW_DURATION": "1S",
+            "icon": "heroes/gatlyn/Gatlin_PS.png",
+            "type": "PASSIVE ABILITY"
+        }
+    ]
+}
