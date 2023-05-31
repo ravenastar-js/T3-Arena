@@ -2,7 +2,9 @@
     "br": [
         {
             "number": 0,
-            "bio": "YAA vive em alta velocidade. Sempre em aceleração crescente e quebrando recordes, ela atingiu um novo patamar com suas asas de vento."
+            "bio": "YAA vive em alta velocidade. Sempre em aceleração crescente e quebrando recordes, ela atingiu um novo patamar com suas asas de vento.",
+            "pv": 4200,
+            "shield": 1400
         },
         {
             "number": 1,
@@ -63,7 +65,9 @@
     "en": [
         {
             "number": 0,
-            "bio": "A genius in track and field sports, YAA lives for the record-breaking speed and agility. With her newly acquired ability to control winds, she is here to take the game to a whole new level."
+            "bio": "A genius in track and field sports, YAA lives for the record-breaking speed and agility. With her newly acquired ability to control winds, she is here to take the game to a whole new level.",
+            "pv": 4200,
+            "shield": 1400
         },
         {
             "number": 1,
