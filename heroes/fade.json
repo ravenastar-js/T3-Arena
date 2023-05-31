@@ -31,7 +31,6 @@
             "number": 6,
             "name": "CONVERSÃO C",
             "desc": "O dano recebido próprio reduz o resfriamento do Soco Predatório",
-            "SHIELD_TEMP": "840",
             "icon": "heroes/fade/Fade_PS.png",
             "type": "HABILIDADE PASSIVA",
             "DAMAGE": "1000"
@@ -69,7 +68,6 @@
             "number": 6,
             "name": "C-CONVERSION",
             "desc": "Damage taken reduces CD of PLUNDER and DASH",
-            "SHIELD_TEMP": "840",
             "icon": "heroes/fade/Fade_PS.png",
             "type": "PASSIVE ABILITY",
             "DAMAGE": "1000"
