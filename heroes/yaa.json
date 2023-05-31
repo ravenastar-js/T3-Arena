@@ -18,7 +18,7 @@
         {
             "number": 2,
             "name": "MORTE DO VENTO",
-            "desc": "YAA avança, cortando o ar e atinge o alvo no caminho com uma rajada de vento causando DAMAGE. Depois de fazer KOs ao inimigo, essa habilidade será atualizada.",
+            "desc": "YAA avança, cortando o ar e atinge o alvo no caminho com uma rajada de vento causando dano. Depois de fazer KOs ao inimigo, essa habilidade será atualizada.",
             "icon": "heroes/yaa/Yaa_1.png",
             "type": "FIRST ACTIVE ABILITY",
             "DAMAGE": "1820"
@@ -35,7 +35,7 @@
         {
             "number": 4,
             "name": "LÂMINA DE VENTO",
-            "desc": "YAA domina completamente o poder do vento, aumenta sua velocidade de movimento e usa duas lâminas de vento para atacar. As lâminas de vento podem penetrar nos inimigos, causando DAMAGE.",
+            "desc": "YAA domina completamente o poder do vento, aumenta sua velocidade de movimento e usa duas lâminas de vento para atacar. As lâminas de vento podem penetrar nos inimigos, causando dano.",
             "DAMAGE": "1820",
             "DAMAGE_MITIGATION": "35%",
             "SPEED_BOOST": "35%",
