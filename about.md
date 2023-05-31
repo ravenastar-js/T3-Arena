@@ -21,5 +21,8 @@ Guia em desenvolvimento (BETA), sendo desenvolvido por **[RavenaStar](https://gi
 
 Guide under development (BETA), being developed by **[RavenaStar](https://github.com/ravenastar-js)**, as a hobby and with the aim of helping the new T3 Arena community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN [SUPPORT SERVER](https://discord.gg/wBZvfE9Wjk)
   <br>  <br>
+<div>
+  
 [![Website Badge](https://img.shields.io/badge/-GITHUB-d61d4e?style=flat-square&labelColor=1b1b1b&logo=github&logoColor=d61d4e&link=https://github.com/ravenastar-js/T3-Arena)](https://github.com/ravenastar-js/T3-Arena)
 [![Discord Badge](https://img.shields.io/badge/-DISCORD-d61d4e?style=flat-square&labelColor=1b1b1b&logo=discord&logoColor=d61d4e&link=https://discord.gg/wBZvfE9Wjk)](https://discord.gg/wBZvfE9Wjk)
+</div>
