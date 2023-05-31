@@ -13,7 +13,7 @@
 <img src="https://tts-ravena.pages.dev/img/t3icon-2.png" style="width: 261px;">
 <br>
 <span  style="color: #fb2c65;"> GUIA DOS HERÓIS / HEROES GUIDE (BETA) </span>
-</br>
+</br></br>
 </p>
 
 
