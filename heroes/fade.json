@@ -33,7 +33,8 @@
             "desc": "O dano recebido próprio reduz o resfriamento do Soco Predatório",
             "SHIELD_TEMP": "840",
             "icon": "heroes/fade/Fade_PS.png",
-            "type": "HABILIDADE PASSIVA"
+            "type": "HABILIDADE PASSIVA",
+            "DAMAGE": "1000"
         }
     ],
     "en": [
