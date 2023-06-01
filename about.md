@@ -29,6 +29,7 @@ Developed by **[RavenaStar](https://github.com/ravenastar-js)**, as a hobby and 
 
 ```
 O WEBSITE NÃO SALVA NENHUMA INFORMAÇÃO DO USUÁRIO OU DADOS DE NAVEGAÇÃO.
-
+```
+```
 WEBSITE DOES NOT SAVE ANY USER INFORMATION OR NAVIGATION DATA.
 ```
