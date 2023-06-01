@@ -20,7 +20,7 @@
             "name": "MORTE DO VENTO",
             "desc": "YAA avança, cortando o ar e atinge o alvo no caminho com uma rajada de vento causando dano. Depois de fazer KOs ao inimigo, essa habilidade será atualizada.",
             "icon": "heroes/yaa/Yaa_1.png",
-            "type": "FIRST ACTIVE ABILITY",
+            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "1820"
         },
         {
@@ -30,7 +30,7 @@
             "DAMAGE": "2x700",
             "DURATION": "2.5s",
             "icon": "heroes/yaa/Yaa_2.png",
-            "type": "SECOND ACTIVE ABILITY"
+            "type": "SEGUNDA HABILIDADE ATIVA"
         },
         {
             "number": 4,
