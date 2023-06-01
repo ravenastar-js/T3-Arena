@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin: -1px;">
   <img style="margin: -16px;
     margin-top: 24px;
     margin-left: auto;
