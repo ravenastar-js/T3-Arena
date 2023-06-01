@@ -7,6 +7,15 @@
             "shield": 2700
         },
         {
+            "number": 1,
+            "name": "CANHÃO QUÂNTICO",
+            "desc": "Canhão Cósmico que dispara projéteis pesados",
+            "icon": "func/no-icon.png",
+            "type": "ARMA",
+            "DAMAGE": "2295",
+            "AMMO_CAPACITY": "2"
+        },
+        {
             "number": 2,
             "name": "PILHAGEM RUSH",
             "desc": "Uma corrida imprudente que pode pressionar os inimigos a baterem na parede",
@@ -18,17 +27,26 @@
             "DAMAGE_MITIGATION": "21%"
         },
         {
+            "number": 3,
+            "name": "ESCUDO QUÂNTICO",
+            "desc": "Libere um escudo quântico no local para bloquear ataques inimigos.",
+            "BARRIER_HEALTH": "16200",
+            "DURATION": "8s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
             "number": 4,
             "name": "ATOM FADE",
             "desc": "Larga bombas para criar uma singularidade que devora todos os inimigos dentro do alcance e volta a dispará-los através do Canhão Cósmico",
             "icon": "heroes/fade/Fade_EX.png",
             "type": "HABILIDADE EX",
-            "DEVOUR_TIME":"2s",
-            "DAMAGE":"1000",
-            "HEALING_OVER_TIME":"1600/s"
+            "DEVOUR_TIME": "2s",
+            "DAMAGE": "1000",
+            "HEALING_OVER_TIME": "1600/s"
         },
         {
-            "number": 6,
+            "number": 5,
             "name": "CONVERSÃO C",
             "desc": "O dano recebido próprio reduz o resfriamento do Soco Predatório",
             "icon": "heroes/fade/Fade_PS.png",
@@ -44,6 +62,15 @@
             "shield": 2700
         },
         {
+            "number": 1,
+            "name": "QUANTUM CANNON",
+            "desc": "Space-class shipboard artillery that fires powerful shells",
+            "icon": "func/no-icon.png",
+            "type": "WEAPON",
+            "DAMAGE": "2295",
+            "AMMO_CAPACITY": "2"
+        },
+        {
             "number": 2,
             "name": "PLUNDER RUSH",
             "desc": "Dashes forward madly and presses opponents hit against the wall",
@@ -55,17 +82,26 @@
             "DAMAGE_MITIGATION": "21%"
         },
         {
+            "number": 3,
+            "name": "QUANTUM SHIELD",
+            "desc": "Cast a quantum shield in position to block opponent's attack",
+            "BARRIER_HEALTH": "16200",
+            "DURATION": "8s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
             "number": 4,
             "name": "ATOM FADE",
             "desc": "Fires a bomb to create a singularity that devours all opponents within the range, and shoots them out from the space-class shipboard artillery",
             "icon": "heroes/fade/Fade_EX.png",
             "type": "ULTIMATE ABILITY",
-            "DEVOUR_TIME":"2s",
-            "DAMAGE":"1000",
-            "HEALING_OVER_TIME":"1600/s"
+            "DEVOUR_TIME": "2s",
+            "DAMAGE": "1000",
+            "HEALING_OVER_TIME": "1600/s"
         },
         {
-            "number": 6,
+            "number": 5,
             "name": "C-CONVERSION",
             "desc": "Damage taken reduces CD of PLUNDER and DASH",
             "icon": "heroes/fade/Fade_PS.png",
