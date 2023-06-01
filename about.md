@@ -11,16 +11,14 @@
     width: 47px;" src="https://tts-ravena.pages.dev/guide/language/en.png">
 <br>
 <img src="https://tts-ravena.pages.dev/img/t3icon-2.png" style="width: 261px;">
-<br>
-<span  style="color: #fb2c65;"> GUIA DOS HERÓIS / HEROES GUIDE (BETA) </span>
 </br></br>
 </p>
 
 <p align="center">
-<h2 id="guia-em-desenvolvimento-beta">GUIA EM DESENVOLVIMENTO (BETA)</h2>
+<h2 id="guia-em-desenvolvimento-beta">GUIA DOS HERÓIS - GUIA EM DESENVOLVIMENTO (BETA)</h2>
 <p>Desenvolvido por <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, por hobby e com o intuito de ajudar a comunidade nova do <code>T3 Arena</code> ou até os mais experientes, terá diversas informações e conteúdos exclusivos. PARA MAIS INFORMAÇÕES ENTRE NO <strong><a href="https://discord.gg/wBZvfE9Wjk">SERVIDOR DE SUPORTE</a></strong>
 <br><br>
-<h2 id="guide-under-development-beta">GUIDE UNDER DEVELOPMENT (BETA)</h2>
+<h2 id="guide-under-development-beta">HEROES GUIDE - GUIDE UNDER DEVELOPMENT (BETA)</h2>
 <p>Developed by <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, as a hobby and with the aim of helping the new <code>T3 Arena</code> community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN <strong><a href="https://discord.gg/wBZvfE9Wjk">SUPPORT SERVER</a></strong>
 <br><br>
 </p>
