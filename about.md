@@ -36,5 +36,9 @@
 <code id="code-1">O WEBSITE NÃO SALVA NENHUMA INFORMAÇÃO OU DADOS DE NAVEGAÇÃO DO USUÁRIO.</code>
 <br>
 <code id="code-2">WEBSITE DOES NOT SAVE ANY INFORMATION OR USER NAVIGATION DATA</code>
+<br>
+<code id="code-3">ウェブサイトは情報やユーザーナビゲーションデータを一切保存しません</code>
 </p>
+
+
 
