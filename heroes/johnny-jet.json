@@ -20,7 +20,7 @@
             "name": "VÉU DO CAOS",
             "desc": "Salta à frente e cria uma área de casos. Dentro dessa área, você se torna invisível e recupera PV gradualmente.",
             "icon": "heroes/johnny-jet/Johnny-Jet_1.png",
-            "type": "FIRST ACTIVE ABILITY",
+            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "928",
             "HEALING_OVER_TIME": "530/s"
         },
@@ -30,7 +30,7 @@
             "desc": "Arremessa uma lata de spray automática que causa dano contínuo e reduz a velocidade dos inimigos que estiverem em AdE.",
             "DAMAGE": "663/s",
             "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
+            "type": "SEGUNDA HABILIDADE ATIVA"
         },
         {
             "number": 4,
