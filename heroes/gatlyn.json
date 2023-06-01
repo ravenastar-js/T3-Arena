@@ -20,7 +20,7 @@
             "name": "SOBRECARGA DE FORMA REFORÇADA",
             "desc": "Em detrimento de sua velocidade, taxa de fogo e capacidade de munição, ele aumenta drasticamente os danos causados pelos tiros, a estabilidade dos tiros e a capacidade de DAMAGEs tomado. Uma breve aceleração é obtida ao final da sobrecarga.",
             "icon": "heroes/gatlyn/Gatlin_1.png",
-            "type": "FIRST ACTIVE ABILITY",
+            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "630",
             "AMMO_CAPACITY": "100",
             "DAMAGE_MITIGATION": "10%"
@@ -32,7 +32,7 @@
             "FIRING_SPEED_INCREASE": "100%",
             "DURATION": "6s",
             "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
+            "type": "SEGUNDA HABILIDADE ATIVA"
         },
         {
             "number": 4,
