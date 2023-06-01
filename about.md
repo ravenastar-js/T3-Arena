@@ -28,7 +28,7 @@ Developed by **[RavenaStar](https://github.com/ravenastar-js)**, as a hobby and 
 </p>
 
 <p align="center">
-<code id="code-1">O WEBSITE NÃO SALVA NENHUMA INFORMAÇÃO DO USUÁRIO OU DADOS DE NAVEGAÇÃO.</code>
+<code id="code-1">O WEBSITE NÃO SALVA NENHUMA INFORMAÇÃO OU DADOS DE NAVEGAÇÃO DO USUÁRIO.</code>
 <br>
-<code id="code-2">WEBSITE DOES NOT SAVE ANY USER INFORMATION OR NAVIGATION DATA.</code>
+<code id="code-2">WEBSITE DOES NOT SAVE ANY INFORMATION OR USER NAVIGATION DATA</code>
 </p>
