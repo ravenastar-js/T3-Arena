@@ -25,6 +25,14 @@
             "DURATION": "1.5s"
         },
         {
+            "number": 3,
+            "name": "RECUAR",
+            "desc": "Pule para trás e entra em modo furtivo, saindo do modo furtivo ao atacar.",
+            "DURATION": "3s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
             "number": 4,
             "name": "FLECHA EXPLOSIVA",
             "desc": "Salta no ar, atirando 3 flechas explosivas. Além disso, ganha um escudo temporário no processo.",
@@ -74,6 +82,14 @@
             "type": "FIRST ACTIVE ABILITY",
             "DAMAGE": "1400",
             "DURATION": "1.5s"
+        },
+        {
+            "number": 3,
+            "name": "PETAL OUT",
+            "desc": "Jump backwards and become invisible; reveal self when attacking.",
+            "DURATION": "3s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
         },
         {
             "number": 4,
