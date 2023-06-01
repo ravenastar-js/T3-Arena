@@ -66,7 +66,7 @@
             "name": "XM2140 ROTARY GUN",
             "desc": "Multi-barrel machine gun with high rate of fire and large ammo capacity.",
             "icon": "func/no-icon.png",
-            "type": "ARMA",
+            "type": "WEAPON",
             "DAMAGE": "420",
             "AMMO_CAPACITY": "200"
         },
