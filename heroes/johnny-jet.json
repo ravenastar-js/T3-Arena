@@ -25,6 +25,14 @@
             "HEALING_OVER_TIME": "530/s"
         },
         {
+            "number": 3,
+            "name": "LATA DE SPRAY AUTOMÁTICA",
+            "desc": "Arremessa uma lata de spray automática que causa dano contínuo e reduz a velocidade dos inimigos que estiverem em AdE.",
+            "DAMAGE": "663/s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
             "number": 4,
             "name": "LATA DE ENERGIA",
             "desc": "Implanta um dispositivo com um fluxo constante de energia líquida para a frente a uma distância fixa, causando dano contínuo e desacelerando os inimigos dentro do alcance.",
@@ -34,7 +42,7 @@
             "type": "HABILIDADE EX"
         },
         {
-            "number": 6,
+            "number": 5,
             "name": "MISTURA",
             "desc": "Ganha um bônus de velocidade quando estiver dentro do Véu do caos.",
             "SPEED_BOOST": "50%",
@@ -68,6 +76,14 @@
             "HEALING_OVER_TIME": "530/s"
         },
         {
+            "number": 3,
+            "name": "AUTO-SPRAY CAN",
+            "desc": "Toss an auto-spray can to deal damage over time to opponents entering the range and reduce their speed.",
+            "DAMAGE": "663/s",
+            "icon": "func/no-icon.png",
+            "type": "SECOND ACTIVE ABILITY"
+        },
+        {
             "number": 4,
             "name": "JET-STIM",
             "desc": "Deploy a device that hurts and slows down opponents within range.",
@@ -77,7 +93,7 @@
             "type": "ULTIMATE ABILITY"
         },
         {
-            "number": 6,
+            "number": 5,
             "name": "BLENDING-IN",
             "desc": "Gain boosted speed while in range of Veil of Chaos",
             "SPEED_BOOST": "50%",
