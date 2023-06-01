@@ -10,7 +10,7 @@
             "number": 1,
             "name": "METRALHADORA ROTATIVA XM2140",
             "desc": "Grande compartimento, alta taxa de metralhadora rotativa de fogo.",
-            "icon": "heroes/gatlyn/Gatlin_wp_icon_std.png",
+            "icon": "func/no-icon.png",
             "type": "ARMA",
             "DAMAGE": "420",
             "AMMO_CAPACITY": "200"
@@ -31,7 +31,7 @@
             "desc": "Irrestrito, com uma cadência de tiro substancialmente maior, mas incapaz de causar dano crítico.",
             "FIRING_SPEED_INCREASE": "100%",
             "DURATION": "6s",
-            "icon": "heroes/gatlyn/Gatlin_2.png",
+            "icon": "func/no-icon.png",
             "type": "SECOND ACTIVE ABILITY"
         },
         {
@@ -65,7 +65,7 @@
             "number": 1,
             "name": "XM2140 ROTARY GUN",
             "desc": "Multi-barrel machine gun with high rate of fire and large ammo capacity.",
-            "icon": "heroes/gatlyn/Gatlin_wp_icon_std.png",
+            "icon": "func/no-icon.png",
             "type": "ARMA",
             "DAMAGE": "420",
             "AMMO_CAPACITY": "200"
@@ -86,7 +86,7 @@
             "desc": "Lift restrictions and greatly increase firing speed, but unable to deal Critical Damage.",
             "FIRING_SPEED_INCREASE": "100%",
             "DURATION": "6s",
-            "icon": "heroes/gatlyn/Gatlin_2.png",
+            "icon": "func/no-icon.png",
             "type": "SECOND ACTIVE ABILITY"
         },
         {
