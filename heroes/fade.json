@@ -20,7 +20,7 @@
             "name": "PILHAGEM RUSH",
             "desc": "Uma corrida imprudente que pode pressionar os inimigos a baterem na parede",
             "icon": "heroes/fade/Fade_1.png",
-            "type": "FIRST ACTIVE ABILITY",
+            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DASH_DAMAGE": "1350",
             "DASH_AGAINST_WALL_DAMAGE": "2970",
             "DASH_KNOCKAWAY_DAMAGE": "1350",
@@ -33,7 +33,7 @@
             "BARRIER_HEALTH": "16200",
             "DURATION": "8s",
             "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
+            "type": "SEGUNDA HABILIDADE ATIVA"
         },
         {
             "number": 4,
