@@ -20,7 +20,7 @@
             "name": "BOMBA DE LENTIDÃO",
             "desc": "Lança uma bomba que causa dano e lentidão em área.",
             "icon": "heroes/hua-ling/Hua Ling_1.png",
-            "type": "FIRST ACTIVE ABILITY",
+            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "1400",
             "DURATION": "1.5s"
         },
@@ -30,7 +30,7 @@
             "desc": "Pule para trás e entra em modo furtivo, saindo do modo furtivo ao atacar.",
             "DURATION": "3s",
             "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
+            "type": "SEGUNDA HABILIDADE ATIVA"
         },
         {
             "number": 4,
