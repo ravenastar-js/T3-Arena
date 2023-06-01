@@ -13,17 +13,6 @@
 <img src="https://tts-ravena.pages.dev/img/t3icon-2.png" style="width: 261px;">
 <br>
 <span  style="color: #fb2c65;"> GUIA DOS HERÓIS / HEROES GUIDE (BETA) </span>
-  </div>
-  <div class="info__about__location fa-field" style="display: flex;gap: 10px;align-items: flex-start;">
-    <i class="fa-solid fa-crown" aria-hidden="true"></i>
-    <div>
-        TTS★Ravena
-    </div>
-    <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
-    <div>
-        Brasil
-    </div>
-</div>
 </br></br>
 </p>
 
