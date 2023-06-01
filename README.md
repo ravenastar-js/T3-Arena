@@ -14,9 +14,7 @@
 <br>
 <span  style="color: #fb2c65;"> GUIA DOS HERÓIS / HEROES GUIDE (BETA) </span>
 <br><br>
-<a href="https://tts-ravena.pages.dev/guide/all">CLIQUE AQUI PARA IR NO GUIA</a>
-<br>
-<a href="https://tts-ravena.pages.dev/guide/all">CLICK HERE TO ACCESS THE GUIDE</a>
+<a href="https://tts-ravena.pages.dev/guide/all">CLIQUE AQUI / CLICK HERE</a>
 </p>
 
 
