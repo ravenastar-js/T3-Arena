@@ -1,24 +1,3 @@
-<p align="center" style="margin: -1px;">
-  <img style="margin: -16px;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 47px;" src="https://t3-guide.pages.dev/language/br.png">
-  <img style="margin: -16px;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 47px;" src="https://t3-guide.pages.dev/language/en.png">
-  <img style="margin: -16px;
-    margin-top: 24px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 47px;" src="https://t3-guide.pages.dev/language/jp.png">
-<br>
-<img src="https://t3-guide.pages.dev/img/t3icon-2.png" style="width: 261px;">
-</br></br>
-</p>
-
 <p align="center">
 <h2 id="guia-em-desenvolvimento-beta">GUIA DOS HERÓIS - EM DESENVOLVIMENTO (BETA)</h2>
 <p>Desenvolvido por <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, por hobby e com o intuito de ajudar a comunidade nova do <code>T3 Arena</code> ou até os mais experientes, terá diversas informações e conteúdos exclusivos. PARA MAIS INFORMAÇÕES ENTRE NO <strong><a href="https://discord.gg/wBZvfE9Wjk">SERVIDOR DE SUPORTE</a></strong>
