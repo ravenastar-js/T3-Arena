@@ -3,19 +3,19 @@
     margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
-    width: 47px;" src="https://tts-ravena.pages.dev/guide/language/br.png">
+    width: 47px;" src="https://t3-guide.pages.dev/language/br.png">
   <img style="margin: -16px;
     margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
-    width: 47px;" src="https://tts-ravena.pages.dev/guide/language/en.png">
+    width: 47px;" src="https://t3-guide.pages.dev/language/en.png">
   <img style="margin: -16px;
     margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
-    width: 47px;" src="https://tts-ravena.pages.dev/guide/language/jp.png">
+    width: 47px;" src="https://t3-guide.pages.dev/language/jp.png">
 <br>
-<img src="https://tts-ravena.pages.dev/img/t3icon-2.png" style="width: 261px;">
+<img src="https://t3-guide.pages.dev/img/t3icon-2.png" style="width: 261px;">
 </br></br>
 </p>
 
