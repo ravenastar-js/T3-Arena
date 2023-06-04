@@ -1,5 +1,5 @@
 <p align="center">
-<h2 id="guia-em-desenvolvimento-beta">T3 GUIDE - EM DESENVOLVIMENTO (BETA)</h2>
+<h2 id="guia-em-desenvolvimento-beta">T3 GUIA - EM DESENVOLVIMENTO (BETA)</h2>
 <p>Desenvolvido por <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, por hobby e com o intuito de ajudar a comunidade nova do <code>T3 Arena</code> ou até os mais experientes, terá diversas informações e conteúdos exclusivos. PARA MAIS INFORMAÇÕES ENTRE NO <strong><a href="https://discord.gg/wBZvfE9Wjk">SERVIDOR DE SUPORTE</a></strong>
 <br><br>
 <h2 id="guide-under-development-beta">T3 GUIDE - UNDER DEVELOPMENT (BETA)</h2>
