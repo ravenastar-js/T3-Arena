@@ -11,8 +11,8 @@
             "desc": "Uma arma de spray de curto alcance e tiro rápido. Após atirar algumas vezes, causará dano crítico.",
             "icon": "heroes/johnny-jet/Johnny-Jet_wp_icon_std.png",
             "type": "ARMA",
-            "MAX_DAMAGE": "2120/s",
-            "CRITICAL_DAMAGE": "1060",
+            "MAX_DAMAGE": "2160/s",
+            "CRITICAL_DAMAGE": "1080",
             "AMMO_CAPACITY": "45"
         },
         {
@@ -21,14 +21,14 @@
             "desc": "Salta à frente e cria uma área de casos. Dentro dessa área, você se torna invisível e recupera PV gradualmente.",
             "icon": "heroes/johnny-jet/Johnny-Jet_1.png",
             "type": "PRIMEIRA HABILIDADE ATIVA",
-            "DAMAGE": "928",
-            "HEALING_OVER_TIME": "530/s"
+            "DAMAGE": "945",
+            "HEALING_OVER_TIME": "540/s"
         },
         {
             "number": 3,
             "name": "LATA DE SPRAY AUTOMÁTICA",
             "desc": "Arremessa uma lata de spray automática que causa dano contínuo e reduz a velocidade dos inimigos que estiverem em AdE.",
-            "DAMAGE": "663/s",
+            "DAMAGE": "675/s",
             "icon": "func/no-icon.png",
             "type": "SEGUNDA HABILIDADE ATIVA"
         },
@@ -36,7 +36,7 @@
             "number": 4,
             "name": "LATA DE ENERGIA",
             "desc": "Implanta um dispositivo com um fluxo constante de energia líquida para a frente a uma distância fixa, causando dano contínuo e desacelerando os inimigos dentro do alcance.",
-            "MAX_DAMAGE": "2120/s",
+            "MAX_DAMAGE": "2160/s",
             "DURATION": "5s",
             "icon": "heroes/johnny-jet/Johnny-Jet_EX.png",
             "type": "HABILIDADE EX"
@@ -62,8 +62,8 @@
             "desc": "Close-range rapid-firing spray gun, accumulate multiple hits will trigger a critical hit.",
             "icon": "heroes/johnny-jet/Johnny-Jet_wp_icon_std.png",
             "type": "WEAPON",
-            "MAX_DAMAGE": "2120/s",
-            "CRITICAL_DAMAGE": "1060",
+            "MAX_DAMAGE": "2160/s",
+            "CRITICAL_DAMAGE": "1080",
             "AMMO_CAPACITY": "45"
         },
         {
@@ -72,14 +72,14 @@
             "desc": "Leap forward and create a veiled space. Become invisible and slowly heals self while in the space.",
             "icon": "heroes/johnny-jet/Johnny-Jet_1.png",
             "type": "FIRST ACTIVE ABILITY",
-            "DAMAGE": "928",
-            "HEALING_OVER_TIME": "530/s"
+            "DAMAGE": "945",
+            "HEALING_OVER_TIME": "540/s"
         },
         {
             "number": 3,
             "name": "AUTO-SPRAY CAN",
             "desc": "Toss an auto-spray can to deal damage over time to opponents entering the range and reduce their speed.",
-            "DAMAGE": "663/s",
+            "DAMAGE": "675/s",
             "icon": "func/no-icon.png",
             "type": "SECOND ACTIVE ABILITY"
         },
@@ -87,7 +87,7 @@
             "number": 4,
             "name": "JET-STIM",
             "desc": "Deploy a device that hurts and slows down opponents within range.",
-            "MAX_DAMAGE": "2120/s",
+            "MAX_DAMAGE": "2160/s",
             "DURATION": "5s",
             "icon": "heroes/johnny-jet/Johnny-Jet_EX.png",
             "type": "ULTIMATE ABILITY"
