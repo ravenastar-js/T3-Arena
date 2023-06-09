@@ -12,8 +12,8 @@
             "desc": "Arco e flecha com disparo carregado que pode aumentar o dano e velocidade da flecha.",
             "icon": "heroes/hua-ling/Hua Ling_wp_icon_std.png",
             "type": "ARMA",
-            "DAMAGE": "3150",
-            "MAX_CHARGE_TIME": "200m/s"
+            "DAMAGE": "630",
+            "MAX_CHARGE_TIME": "5m/s"
         },
         {
             "number": 2,
@@ -71,8 +71,8 @@
             "desc": "Classic Bow and arrow, can be charged to increase damage and velocity.",
             "icon": "heroes/hua-ling/Hua Ling_wp_icon_std.png",
             "type": "WEAPON",
-            "DAMAGE": "3150",
-            "MAX_CHARGE_TIME": "200m/s"
+            "DAMAGE": "630",
+            "MAX_CHARGE_TIME": "5m/s"
         },
         {
             "number": 2,
