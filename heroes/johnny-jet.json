@@ -1,104 +1,93 @@
 {
-    "br": [
+    "skills": [
         {
             "number": 0,
-            "bio": "Um rapaz autoproclamado artista de rua que usa o graffiti para expressar sua alma criativa pelos prédios da cidade.",
+            "br": {
+                "bio": "Um rapaz autoproclamado artista de rua que usa o graffiti para expressar sua alma criativa pelos prédios da cidade."
+            },
+            "en": {
+                "bio": "The vanguard of Team Ωltra-Limits, leading his crew to victory with quick-firing wits and weaponry."
+            },
             "pv": 5300
         },
         {
             "number": 1,
-            "name": "INGETOR DE ENERGIA",
-            "desc": "Uma arma de spray de curto alcance e tiro rápido. Após atirar algumas vezes, causará dano crítico.",
+            "br": {
+                "name": "INGETOR DE ENERGIA",
+                "desc": "Uma arma de spray de curto alcance e tiro rápido. Após atirar algumas vezes, causará dano crítico.",
+                "type": "ARMA"
+            },
+            "en": {
+                "name": "POWER BLASTER",
+                "desc": "Close-range rapid-firing spray gun, accumulate multiple hits will trigger a critical hit.",
+                "type": "WEAPON"
+            },
             "icon": "heroes/johnny-jet/Johnny-Jet_wp_icon_std.png",
-            "type": "ARMA",
             "MAX_DAMAGE": "2160/s",
             "CRITICAL_DAMAGE": "1080",
             "AMMO_CAPACITY": "45"
         },
         {
             "number": 2,
-            "name": "VÉU DO CAOS",
-            "desc": "Salta à frente e cria uma área de casos. Dentro dessa área, você se torna invisível e recupera PV gradualmente.",
+            "br": {
+                "name": "VÉU DO CAOS",
+                "desc": "Salta à frente e cria uma área de casos. Dentro dessa área, você se torna invisível e recupera PV gradualmente.",
+                "type": "PRIMEIRA HABILIDADE ATIVA"
+            },
+            "en": {
+                "name": "VEIL OF CHAOS",
+                "desc": "Leap forward and create a veiled space. Become invisible and slowly heals self while in the space.",
+                "type": "FIRST ACTIVE ABILITY"
+            },
             "icon": "heroes/johnny-jet/Johnny-Jet_1.png",
-            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "945",
             "HEALING_OVER_TIME": "540/s"
         },
         {
             "number": 3,
-            "name": "LATA DE SPRAY AUTOMÁTICA",
-            "desc": "Arremessa uma lata de spray automática que causa dano contínuo e reduz a velocidade dos inimigos que estiverem em AdE.",
+            "br": {
+                "name": "LATA DE SPRAY AUTOMÁTICA",
+                "desc": "Arremessa uma lata de spray automática que causa dano contínuo e reduz a velocidade dos inimigos que estiverem em AdE.",
+                "type": "SEGUNDA HABILIDADE ATIVA"
+            },
+            "en": {
+                "name": "AUTO-SPRAY CAN",
+                "desc": "Toss an auto-spray can to deal damage over time to opponents entering the range and reduce their speed.",
+                "type": "SECOND ACTIVE ABILITY"
+            },
             "DAMAGE": "675/s",
-            "icon": "func/no-icon.png",
-            "type": "SEGUNDA HABILIDADE ATIVA"
+            "icon": "func/no-icon.png"
         },
         {
             "number": 4,
-            "name": "LATA DE ENERGIA",
-            "desc": "Implanta um dispositivo com um fluxo constante de energia líquida para a frente a uma distância fixa, causando dano contínuo e desacelerando os inimigos dentro do alcance.",
+            "br": {
+                "name": "LATA DE ENERGIA",
+                "desc": "Implanta um dispositivo com um fluxo constante de energia líquida para a frente a uma distância fixa, causando dano contínuo e desacelerando os inimigos dentro do alcance.",
+                "type": "HABILIDADE EX"
+            },
+            "en": {
+                "name": "JET-STIM",
+                "desc": "Deploy a device that hurts and slows down opponents within range.",
+                "type": "ULTIMATE ABILITY"
+            },
             "MAX_DAMAGE": "2160/s",
             "DURATION": "5s",
-            "icon": "heroes/johnny-jet/Johnny-Jet_EX.png",
-            "type": "HABILIDADE EX"
+            "icon": "heroes/johnny-jet/Johnny-Jet_EX.png"
         },
         {
             "number": 5,
-            "name": "MISTURA",
-            "desc": "Ganha um bônus de velocidade quando estiver dentro do Véu do caos.",
+            "br": {
+                "name": "MISTURA",
+                "desc": "Ganha um bônus de velocidade quando estiver dentro do Véu do caos.",
+                "type": "HABILIDADE PASSIVA"
+            },
+            "en": {
+                "name": "BLENDING-IN",
+                "desc": "Gain boosted speed while in range of Veil of Chaos",
+                "type": "PASSIVE ABILITY"
+            },
             "SPEED_BOOST": "50%",
-            "icon": "heroes/johnny-jet/Johnny-Jet_PS.png",
-            "type": "HABILIDADE PASSIVA"
-        }
-    ],
-    "en": [
-        {
-            "number": 0,
-            "bio": "The vanguard of Team Ωltra-Limits, leading his crew to victory with quick-firing wits and weaponry.",
-            "pv": 5300
-        },
-        {
-            "number": 1,
-            "name": "POWER BLASTER",
-            "desc": "Close-range rapid-firing spray gun, accumulate multiple hits will trigger a critical hit.",
-            "icon": "heroes/johnny-jet/Johnny-Jet_wp_icon_std.png",
-            "type": "WEAPON",
-            "MAX_DAMAGE": "2160/s",
-            "CRITICAL_DAMAGE": "1080",
-            "AMMO_CAPACITY": "45"
-        },
-        {
-            "number": 2,
-            "name": "VEIL OF CHAOS",
-            "desc": "Leap forward and create a veiled space. Become invisible and slowly heals self while in the space.",
-            "icon": "heroes/johnny-jet/Johnny-Jet_1.png",
-            "type": "FIRST ACTIVE ABILITY",
-            "DAMAGE": "945",
-            "HEALING_OVER_TIME": "540/s"
-        },
-        {
-            "number": 3,
-            "name": "AUTO-SPRAY CAN",
-            "desc": "Toss an auto-spray can to deal damage over time to opponents entering the range and reduce their speed.",
-            "DAMAGE": "675/s",
-            "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
-        },
-        {
-            "number": 4,
-            "name": "JET-STIM",
-            "desc": "Deploy a device that hurts and slows down opponents within range.",
-            "MAX_DAMAGE": "2160/s",
-            "DURATION": "5s",
-            "icon": "heroes/johnny-jet/Johnny-Jet_EX.png",
-            "type": "ULTIMATE ABILITY"
-        },
-        {
-            "number": 5,
-            "name": "BLENDING-IN",
-            "desc": "Gain boosted speed while in range of Veil of Chaos",
-            "SPEED_BOOST": "50%",
-            "icon": "heroes/johnny-jet/Johnny-Jet_PS.png",
-            "type": "PASSIVE ABILITY"
+            "icon": "heroes/johnny-jet/Johnny-Jet_PS.png"
         }
     ]
 }

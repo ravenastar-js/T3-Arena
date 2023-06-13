@@ -1,120 +1,108 @@
 {
-    "br": [
+    "skills": [
         {
             "number": 0,
-            "bio": "Arqueira veterana e ídola esportiva. Hua Ling almeja promover a arte do arco e flecha e difundir o estilo de sua família através da arena do T3.",
+            "br": {
+                "bio": "Arqueira veterana e ídola esportiva. Hua Ling almeja promover a arte do arco e flecha e difundir o estilo de sua família através da arena do T3."
+            },
+            "en": {
+                "bio": "A master of archery, and a popular sports idol. Hua Ling is looking at a chance to present her family's tradicional art and value to a greater world."
+            },
             "pv": 4200,
             "shield": 1400
         },
         {
             "number": 1,
-            "name": "ARCO COMPOSTO",
-            "desc": "Arco e flecha com disparo carregado que pode aumentar o dano e velocidade da flecha.",
+            "br": {
+                "name": "ARCO COMPOSTO",
+                "desc": "Arco e flecha com disparo carregado que pode aumentar o dano e velocidade da flecha.",
+                "type": "ARMA"
+            },
+            "en": {
+                "name": "COMPOUND BOW",
+                "desc": "Classic Bow and arrow, can be charged to increase damage and velocity.",
+                "type": "WEAPON"
+            },
             "icon": "heroes/hua-ling/Hua Ling_wp_icon_std.png",
-            "type": "ARMA",
             "DAMAGE": "630",
             "MAX_CHARGE_TIME": "5m/s"
         },
         {
             "number": 2,
-            "name": "BOMBA DE LENTIDÃO",
-            "desc": "Lança uma bomba que causa dano e lentidão em área.",
+            "br": {
+                "name": "BOMBA DE LENTIDÃO",
+                "desc": "Lança uma bomba que causa dano e lentidão em área.",
+                "type": "PRIMEIRA HABILIDADE ATIVA"
+            },
+            "en": {
+                "name": "SNARE BOMB",
+                "desc": "Toss a bomb to damage and slow down opponents.",
+                "type": "FIRST ACTIVE ABILITY"
+            },
             "icon": "heroes/hua-ling/Hua Ling_1.png",
-            "type": "PRIMEIRA HABILIDADE ATIVA",
             "DAMAGE": "1400",
             "DURATION": "1.5s"
         },
         {
             "number": 3,
-            "name": "RECUAR",
-            "desc": "Pule para trás e entra em modo furtivo, saindo do modo furtivo ao atacar.",
+            "br": {
+                "name": "RECUAR",
+                "desc": "Pule para trás e entra em modo furtivo, saindo do modo furtivo ao atacar.",
+                "type": "SEGUNDA HABILIDADE ATIVA"
+            },
+            "en": {
+                "name": "PETAL OUT",
+                "desc": "Jump backwards and become invisible; reveal self when attacking.",
+                "type": "SECOND ACTIVE ABILITY"
+            },
             "DURATION": "3s",
-            "icon": "func/no-icon.png",
-            "type": "SEGUNDA HABILIDADE ATIVA"
+            "icon": "func/no-icon.png"
         },
         {
             "number": 4,
-            "name": "FLECHA EXPLOSIVA",
-            "desc": "Salta no ar, atirando 3 flechas explosivas. Além disso, ganha um escudo temporário no processo.",
+            "br": {
+                "name": "FLECHA EXPLOSIVA",
+                "desc": "Salta no ar, atirando 3 flechas explosivas. Além disso, ganha um escudo temporário no processo.",
+                "type": "HABILIDADE EX"
+            },
+            "en": {
+                "name": "BLAST ARROW",
+                "desc": "Leap up and send out 3 blast arrows. Gain Temp. shield in the process.",
+                "type": "ULTIMATE ABILITY"
+            },
             "DAMAGE": "2800",
-            "icon": "heroes/hua-ling/Hua Ling_EX.png",
-            "type": "HABILIDADE EX"
+            "icon": "heroes/hua-ling/Hua Ling_EX.png"
         },
         {
             "number": 5,
-            "name": "TORNADO",
-            "desc": "Lança um tornado que atrai oponentes em linha reta, além de causar dano e atordoamento.",
+            "br": {
+                "name": "TORNADO",
+                "desc": "Lança um tornado que atrai oponentes em linha reta, além de causar dano e atordoamento.",
+                "type": "HABILIDADE EX"
+            },
+            "en": {
+                "name": "WHIRLWIND",
+                "desc": "Send out a whirlwind flying forward that sucks in, damage and stun opponents.",
+                "type": "ULTIMATE ABILITY"
+            },
             "DAMAGE": "560/s",
             "DURATION": "4s",
-            "icon": "heroes/hua-ling/Hua Ling_EX2.png",
-            "type": "HABILIDADE EX"
+            "icon": "heroes/hua-ling/Hua Ling_EX2.png"
         },
         {
             "number": 6,
-            "name": "LEITOR INFRAVERMELHO",
-            "desc": "Escaneia uma área em cone à frente regulamente, revelando oponentes através de paredes.",
+            "br": {
+                "name": "LEITOR INFRAVERMELHO",
+                "desc": "Escaneia uma área em cone à frente regulamente, revelando oponentes através de paredes.",
+                "type": "HABILIDADE PASSIVA"
+            },
+            "en": {
+                "name": "INFRARED SCAN",
+                "desc": "Gain the ability to regularly scan a fan-shaped area in the front. See scanned opponents through walls.",
+                "type": "PASSIVE ABILITY"
+            },
             "SCANNER": "30m",
-            "icon": "heroes/hua-ling/Hua Ling_PS.png",
-            "type": "HABILIDADE PASSIVA"
-        }
-    ],
-    "en": [
-        {
-            "number": 0,
-            "bio": "A master of archery, and a popular sports idol. Hua Ling is looking at a chance to present her family's tradicional art and value to a greater world.",
-            "pv": 4200,
-            "shield": 1400
-        },
-        {
-            "number": 1,
-            "name": "COMPOUND BOW",
-            "desc": "Classic Bow and arrow, can be charged to increase damage and velocity.",
-            "icon": "heroes/hua-ling/Hua Ling_wp_icon_std.png",
-            "type": "WEAPON",
-            "DAMAGE": "630",
-            "MAX_CHARGE_TIME": "5m/s"
-        },
-        {
-            "number": 2,
-            "name": "SNARE BOMB",
-            "desc": "Toss a bomb to damage and slow down opponents.",
-            "icon": "heroes/hua-ling/Hua Ling_1.png",
-            "type": "FIRST ACTIVE ABILITY",
-            "DAMAGE": "1400",
-            "DURATION": "1.5s"
-        },
-        {
-            "number": 3,
-            "name": "PETAL OUT",
-            "desc": "Jump backwards and become invisible; reveal self when attacking.",
-            "DURATION": "3s",
-            "icon": "func/no-icon.png",
-            "type": "SECOND ACTIVE ABILITY"
-        },
-        {
-            "number": 4,
-            "name": "BLAST ARROW",
-            "desc": "Leap up and send out 3 blast arrows. Gain Temp. shield in the process.",
-            "DAMAGE": "2800",
-            "icon": "heroes/hua-ling/Hua Ling_EX.png",
-            "type": "ULTIMATE ABILITY"
-        },
-        {
-            "number": 5,
-            "name": "WHIRLWIND",
-            "desc": "Send out a whirlwind flying forward that sucks in, damage and stun opponents.",
-            "DAMAGE": "560/s",
-            "DURATION": "4s",
-            "icon": "heroes/hua-ling/Hua Ling_EX2.png",
-            "type": "ULTIMATE ABILITY"
-        },
-        {
-            "number": 6,
-            "name": "INFRARED SCAN",
-            "desc": "Gain the ability to regularly scan a fan-shaped area in the front. See scanned opponents through walls.",
-            "SCANNER": "30m",
-            "icon": "heroes/hua-ling/Hua Ling_PS.png",
-            "type": "PASSIVE ABILITY"
+            "icon": "heroes/hua-ling/Hua Ling_PS.png"
         }
     ]
 }
