@@ -3,9 +3,11 @@
         {
             "number": 0,
             "br": {
+                "update": "12/06/2023",
                 "bio": "Um dos mais procurados do setor, FADE, seu Canhão Quântico pode causar danos massivos aos inimigos de curta distância. Tenha mais cuidado para não ser engolido pela bomba quântica que ele lançar!"
             },
             "en": {
+                "update": "06/12/2023",
                 "bio": "FADE is familiar face on the Sector's MOST WANTED posters. His Quantum Cannon can deal massive damage to opponents close-range. Remember to stay away from his quantum bombs!"
             },
             "pv": 9450,
