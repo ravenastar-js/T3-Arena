@@ -5,8 +5,8 @@
 <h2 id="guide-under-development-beta">T3 GUIDE - UNDER DEVELOPMENT (BETA)</h2>
 <p>Developed by <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, as a hobby and with the aim of helping the new <code>T3 Arena</code> community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN <strong><a href="https://discord.gg/wBZvfE9Wjk">SUPPORT SERVER</a></strong>
 <br><br>
-<h2 id="guide-under-development-beta-jp">T3ガイド - 開発中 (ベータ版)</h2>
-<p><strong><a href="https://github.com/ravenastar-js">RavenaStar </a></strong>が趣味として開発したもので、新規または経験豊富な <code>T3 アリーナ</code> コミュニティを支援することを目的としており、独占的な情報とコンテンツが含まれます。 詳細については、<strong><a href="https://discord.gg/wBZvfE9Wjk">サポート サーバー </a></strong> に参加してください。
+<h2 id="guide-under-development-beta-jp">T3 指南 - 开发中（测试版）</h2>
+<p>由 <strong><a href="https://github.com/ravenastar-js">RavenaStar </a></strong>开发，作为一种爱好来帮助新的 <code>T3 Arena</code>社区甚至是最有经验的社区，它将包含大量信息和独家内容。 如需更多信息，请加入 <strong><a href="https://discord.gg/wBZvfE9Wjk">支持服务器</a></strong>
 <br><br>
 </p>
 <p align="center">
