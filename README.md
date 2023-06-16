@@ -6,7 +6,7 @@
 <p>Developed by <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, as a hobby and with the aim of helping the new <code>T3 Arena</code> community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN <strong><a href="https://discord.gg/wBZvfE9Wjk">SUPPORT SERVER</a></strong>
 <br><br>
 <h2 id="guide-under-development-beta-jp">T3 指南 - 開發中（測試版）</h2>
-<p>由 <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong> 開發，作為一種愛好來幫助新的 <code>T3 Arena</code>社區甚至是最有經驗的社區，它將包含大量信息和獨家內容。如需更多信息，請加入 <strong><a href="https://discord.gg/wBZvfE9Wjk">支持服務器</a></strong>
+<p>由 <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong> 開發，作為一種愛好來幫助新的 <code>T3 Arena</code> 社區甚至是最有經驗的社區，它將包含大量信息和獨家內容。如需更多信息，請加入 <strong><a href="https://discord.gg/wBZvfE9Wjk">支持服務器</a></strong>
 <br><br>
 </p>
 <p align="center">
