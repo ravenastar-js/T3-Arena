@@ -6,7 +6,7 @@
 <p>Developed by <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong>, as a hobby and with the aim of helping the new <code>T3 Arena</code> community or even the most experienced ones, it will have a lot of information and exclusive content. FOR MORE INFORMATION JOIN <strong><a href="https://discord.gg/wBZvfE9Wjk">SUPPORT SERVER</a></strong>
 <br><br>
 <h2 id="guide-under-development-beta-jp">T3 指南 - 开发中（测试版）</h2>
-<p>由 <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong> 开发，作为一种爱好来帮助新的 <code>T3 Arena</code> 社区甚至是最有经验的社区，它将包含大量信息和独家内容。 如需更多信息，请加入 <strong><a href="https://discord.gg/wBZvfE9Wjk">支持服务器</a></strong>
+<p>由 <strong><a href="https://github.com/ravenastar-js">RavenaStar</a></strong> 開發，作為一種愛好來幫助新的 <code>T3 Arena</code>社區甚至是最有經驗的社區，它將包含大量信息和獨家內容。如需更多信息，請加入 <strong><a href="https://discord.gg/wBZvfE9Wjk">支持服務器</a></strong>
 <br><br>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 <br><br>
 <code id="code-2">WEBSITE DOES NOT SAVE ANY INFORMATION OR USER NAVIGATION DATA</code>
 <br><br>
-<code id="code-3">网站不保存任何信息或用户导航数据</code>
+<code id="code-3">網站不保存任何信息或用戶導航數據</code>
 </p>
 
 
