@@ -4,6 +4,10 @@
 
 Cookies are plain text files that are stored on your computer or mobile device by a website server. Each cookie is unique to your browser. It will contain some anonymous information like a unique identifier, website domain name and some digits and numbers.
 
+### WHERE ARE COOKIES STORED?
+
+Cookie files need to be stored somewhere to be able to remember what you did on the website or something else. As such, they’re stored directly on your hard drive by your browser. The next time you visit that website, your browser will send saved cookies to the website’s server, allowing the server to use the saved information.
+
 ### WHAT TYPES OF COOKIES DO WE USE?
 
 `Essential cookies`\
