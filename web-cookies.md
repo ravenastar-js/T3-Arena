@@ -8,6 +8,12 @@ Cookies are plain text files that are stored on your computer or mobile device b
 
 Cookie files need to be stored somewhere to be able to remember what you did on the website or something else. As such, they’re stored directly on your hard drive by your browser. The next time you visit that website, your browser will send saved cookies to the website’s server, allowing the server to use the saved information.
 
+### WHO CAN ACCESS AND VIEW MY COOKIES?
+
+Only the domain name that saved the cookies on your hard drive can access and read them. They can’t be accessed or examined by other websites. So if you visit forbes.com, they won’t be able to access cookies set by nytimes.com
+
+Accepting a cookie doesn’t mean your personal information is in danger or that a cookie can deliver you a virus. However, advertising and tracking networks may use cookies to track your visits across the internet.
+
 ### WHAT TYPES OF COOKIES DO WE USE?
 
 `Essential cookies`\
