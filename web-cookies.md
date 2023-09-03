@@ -6,11 +6,11 @@ Cookies are plain text files that are stored on your computer or mobile device b
 
 ### WHAT TYPES OF COOKIES DO WE USE?
 
-`Necessary cookies`\
-Necessary cookies allow us to offer you the best possible experience when accessing and browsing our website and using its features.\
+`Essential cookies`\
+Essential cookies allow us to offer you the best possible experience when accessing and browsing our website and using its features.\
 \
-`Functionality cookies`\
-Functionality cookies allow us to operate the website in accordance with the choices you make. For example, we will recognize your username and remember how you have personalized the site during future visits.
+`Functional cookies`\
+Functional cookies allow us to operate the website in accordance with the choices you make. For example, we will recognize your username and remember how you have personalized the site during future visits.
 
 > When you click on button `OK`, the website creates a cookie whose name is `user_accepted_the_cookie` to identify that the user has accepted cookies.
 
