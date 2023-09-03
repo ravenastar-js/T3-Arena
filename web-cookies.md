@@ -23,7 +23,7 @@ Essential cookies allow us to offer you the best possible experience when access
 Functional cookies allow us to operate the website in accordance with the choices you make. For example, we will recognize your username and remember how you have personalized the site during future visits.\
 \
 `Third-party cookies`\
-Third-party cookies are managed by third-party platforms, such as Youtube and others. We use YouTube, so there are cookies from Youtube in T3 GUIDE.\
+Third-party cookies are managed by third-party platforms, such as Youtube and others. We use YouTube, so there are cookies from Youtube in T3 GUIDE.
 
 > When you click on button `OK`, the website creates a cookie whose name is `user_accepted_the_cookie` to identify that the user has accepted cookies.
 
