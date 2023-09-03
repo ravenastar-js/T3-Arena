@@ -12,7 +12,7 @@ Cookie files need to be stored somewhere to be able to remember what you did on 
 
 Only the domain name that saved the cookies on your hard drive can access and read them. They can’t be accessed or examined by other websites. So if you visit forbes.com, they won’t be able to access cookies set by nytimes.com
 
-Accepting a cookie doesn’t mean your personal information is in danger or that a cookie can deliver you a virus. However, advertising and tracking networks may use cookies to track your visits across the internet.
+Accepting a cookie doesn’t mean your personal information is in danger or that a cookie can deliver you a virus.
 
 ### WHAT TYPES OF COOKIES DO WE USE?
 
