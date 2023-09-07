@@ -1,4 +1,4 @@
-# Cookie Policy 
+# Cookie Usage Policy
 
 ### WHAT ARE COOKIES?
 
